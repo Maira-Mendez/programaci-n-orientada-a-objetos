@@ -1,0 +1,1 @@
+se realiza un programa con j frame en java haciendo uso de las librerias .swimg y .awt, donde salen dos pestañas, una contiene un resumen de un libro y la otra realiza operaciones entre dos nuemros digitados por el ususario 
